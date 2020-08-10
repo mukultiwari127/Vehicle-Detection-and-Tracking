@@ -11,7 +11,7 @@ Yolo V3 abd Yolo V4 - https://github.com/AlexeyAB/darknet
 # Installation
 1. Install python packages using requirements.txt ("pip install -r requirements.txt")
 2. Download the model files for Yolov3 and Yolov4 from [Here](https://drive.google.com/file/d/1IpOpnniT1ZBMnT6b5mURQrBWO2FMQKor/view?usp=sharing)
-3. Extract and copy the contents to VehicleTracker/model_data/
+3. Extract and copy the contents (yolo3.h5 and yolo4.h5) to VehicleTracker/model_data/
 
 # Running Instructions
 1. Navigate inside the folder VehicleTracker
